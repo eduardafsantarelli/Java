@@ -1,0 +1,12 @@
+# Arquivos compilados
+*.class
+bin/
+out/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# macOS
+.DS_Store
